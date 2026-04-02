@@ -108,3 +108,11 @@ O modelo é organizado em um **esquema estrela** com as seguintes tabelas:
 - **DAX** — Cálculo de medidas, inteligência de tempo (YoY, MoM, LY, LM)
 - **Power Query (M)** — Transformação e limpeza dos dados
 - **Modelo Estrela** — Estrutura dimensional para performance e clareza
+
+
+## 🔗 Fonte dos Dados
+
+Os dados utilizados foram extraídos da plataforma de Cursos Xperiun
+
+Os dados.csv foram tratados para análise no Power Query antes da modelagem e análise.
+
