@@ -1,0 +1,30 @@
+﻿IDSubcategoriaProduto,IDCategoriaProduto,SubcategoriaNome,SubcategoriaDescricao,CustoUnitPadrao,PrecoUnitPadrao
+101,1,Profissionais,Raquetes de alto desempenho para jogadores avançados,500,800
+102,1,Intermediárias,Raquetes para jogadores de nível intermediário,300,500
+103,1,Iniciantes,Raquetes ideais para quem está começando no esporte,200,350
+104,1,Infantis,Raquetes com tamanho e peso adequados para crianças,150,250
+201,2,Quadra Dura,Bolas para uso em superfícies duras,10,20
+202,2,Saibro,Bolas adaptadas para quadras de saibro,10,20
+203,2,Grama,Bolas específicas para quadras de grama,12,22
+204,2,Treinamento,Bolas duráveis para práticas e treinos,8,16
+205,2,Infantis,Bolas com pressão reduzida para crianças,7,15
+301,3,Monofilamento,Cordas de fio único para durabilidade,15,30
+302,3,Multifilamento,Cordas com múltiplos filamentos para conforto,20,40
+303,3,Tripa Natural,Cordas de origem natural para performance,60,100
+304,3,Híbridas,Combinação de diferentes materiais,25,50
+401,4,Grips Básicos,Grips padrão para substituição,5,10
+402,4,Overgrips Absorventes,Overgrips que absorvem o suor,4,8
+403,4,Overgrips Aderentes,Overgrips com maior aderência,4,8
+501,5,Raqueteiras,Bolsas para transporte de múltiplas raquetes,80,150
+502,5,Mochilas Esportivas,Mochilas práticas para equipamentos,50,100
+601,6,Antivibradores,Reduzem vibrações na raquete,3,6
+602,6,Fitas de Proteção,Protegem a cabeça da raquete contra impactos,5,10
+603,6,Faixas e Munhequeiras,Absorvem o suor e oferecem conforto,10,20
+604,6,Bonés e Viseiras,Proteção contra o sol durante o jogo,15,30
+605,6,Garrafas e Squeezes,Hidratação durante treinos e partidas,10,20
+701,7,Masculino,"Tênis para homens, adequados a diferentes quadras",150,250
+702,7,Feminino,"Tênis para mulheres, com design e conforto",150,250
+801,8,Camisetas e Polos,Parte superior para jogos e treinos,30,60
+802,8,Meias,Meias confortáveis para uso em quadra,5,10
+803,8,Shorts,Shorts adequados para partidas e treinos,25,50
+804,8,Jaquetas,Jaquetas para proteção contra o frio e vento,80,150
